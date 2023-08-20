@@ -1,6 +1,5 @@
 """ File: battleship.py
     Author: Ishika Patel
-    Course: CSC120
     Purpose: This program create 2 classes: Board and Ship where both interact
              with each other to replicate one side of the battleship board.
 """
